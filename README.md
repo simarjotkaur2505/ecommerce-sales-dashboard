@@ -28,4 +28,5 @@ https://www.kaggle.com/datasets/uzmaakhtar/e-commerce-sales-performance-analysis
 - Top-performing products drive a significant portion of revenue
 
 ## Project File
-You can view and download the project file (Excel/Google Sheets) from this repository.
+- **Dashboard (PDF):** [Ecommerce_sales_dataset - Dashboard.pdf](./Ecommerce_sales_dataset%20-%20Dashboard.pdf) — overview, layout, and visualizations for the sales dashboard.
+- **Spreadsheet:** You can view and download the project file (Excel / Google Sheets) from this repository.
